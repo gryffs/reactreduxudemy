@@ -1,25 +1,14 @@
-# ReduxSimpleStarter
+# Video Viewer
 
-Interested in learning [Redux](https://www.udemy.com/react-redux/)?
+Sample video viewer with search ability built during this course: [Redux](https://www.udemy.com/react-redux/)
+
+Had a little fun with the styling and made it World of Warcraft themed.
 
 ###Getting Started###
 
-There are two methods for getting started with this repo.
-
-####Familiar with Git?#####
-Checkout this repo, install dependencies, then start the gulp process with the following:
-
-```
-	> git clone git@github.com:StephenGrider/ReduxSimpleStarter.git
-	> cd ReduxSimpleStarter
-	> npm install
-	> npm start
-```
-
-####Not Familiar with Git?#####
-Click [here](https://github.com/StephenGrider/ReactStarter/releases) then download the .zip file.  Extract the contents of the zip file, then open your terminal, change to the project directory, and:
-
 ```
 	> npm install
 	> npm start
 ```
+
+visit localhost:8080 in your web browser
