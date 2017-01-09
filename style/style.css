@@ -32,5 +32,6 @@
 }
 
 body {
-  background-image: url(http://i.imgur.com/MpaWOGP.jpg);
+  background-image: url("http://media.blizzard.com/wow/media/wallpapers/other/legion/legion-2048x1536-standard.jpg");
+  background-position: center;
 }
