@@ -14,14 +14,23 @@
 .video-detail .details {
   margin-top: 10px;
   padding: 10px;
-  border: 1px solid #ddd;
+  border: 1px solid #f8b700;
   border-radius: 4px;
+  background-color: #170e09;
+  color: #f8b700;
 }
 
-.list-group-item {
+.vid-list {
+  border: 1px solid #504137;
   cursor: pointer;
+  background-color: #170e09;
+  color: #f8b700;
 }
 
 .list-group-item:hover {
-  background-color: #eee;
+  border: 1px solid #f8b700;
+}
+
+body {
+  background-image: url(http://i.imgur.com/MpaWOGP.jpg);
 }

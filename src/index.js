@@ -16,7 +16,7 @@ class App extends Component {
       selectedVideo: null
     };
 
-    this.videoSearch('warcraft');
+    this.videoSearch('world of warcraft blizzard');
   }
 
   videoSearch(term) {
