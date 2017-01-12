@@ -11,6 +11,7 @@ Had a little fun with the styling and made it World of Warcraft themed.
 ###Getting Started###
 
 ```
+  > cd /React
   > npm install
   > npm start
 ```
@@ -18,3 +19,13 @@ Had a little fun with the styling and made it World of Warcraft themed.
 visit localhost:8080 in your web browser
 
 ##Redux##
+
+Built during this course: [Redux](https://www.udemy.com/react-redux/)?
+
+###Getting Started###
+
+```
+  > cd /Redux
+  > npm install
+  > npm start
+```
