@@ -16,11 +16,11 @@ Had a little fun with the styling and made it World of Warcraft themed.
   > npm start
 ```
 
-visit localhost:8080 in your web browser
+visit localhost:8080 in your web browser.
 
 ##Redux##
 
-Built during this course: [Redux](https://www.udemy.com/react-redux/)?
+Built during this course: [Redux](https://www.udemy.com/react-redux/).
 
 ###Getting Started###
 
@@ -29,3 +29,17 @@ Built during this course: [Redux](https://www.udemy.com/react-redux/)?
   > npm install
   > npm start
 ```
+visit localhost:8080 in your web browser.
+
+##WeatherApp##
+
+Built during this course: [Redux](https://www.udemy.com/react-redux/).
+
+###Getting Started###
+
+```
+  > cd /WeatherApp
+  > npm install
+  > npm start
+```
+visit localhost:8080 in your web browser.
