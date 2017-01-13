@@ -11,7 +11,7 @@ Had a little fun with the styling and made it World of Warcraft themed.
 ###Getting Started###
 
 ```
-  > cd /React
+  > cd React/
   > npm install
   > npm start
 ```
@@ -25,7 +25,7 @@ Built during this course: [Redux](https://www.udemy.com/react-redux/).
 ###Getting Started###
 
 ```
-  > cd /Redux
+  > cd Redux/
   > npm install
   > npm start
 ```
@@ -38,7 +38,7 @@ Built during this course: [Redux](https://www.udemy.com/react-redux/).
 ###Getting Started###
 
 ```
-  > cd /WeatherApp
+  > cd WeatherApp/
   > npm install
   > npm start
 ```
