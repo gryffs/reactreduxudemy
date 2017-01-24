@@ -37,11 +37,11 @@ const Schema = new GraphQLSchema({
 });
 
 let query = `
-  {
-    receivedMessage: echo(message: "Hello")
+  query getEcho($inputMessage: String) {
+    receivedMessage: echo(message: $inputMessage)
   }
 `;
 
-graphql(Schema, query).then(function(result) {
+graphql(Schema, query, null, null, {inputMessage: "Hello"}).then(function(result) {
   console.log(result);
 });
